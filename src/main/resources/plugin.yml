@@ -1,0 +1,13 @@
+name: Socials
+version: v1.0
+main: com.darksmp.socials.Main
+api-version: 1.8
+
+commands:
+  socials:
+
+permissions:
+  socials.use:
+    description: Allows the user to use the commnand /socials
+
+
